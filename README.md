@@ -19,3 +19,6 @@
 5. 空间换时间
 
 [数组、链表、跳表](https://github.com/HerokunTan/Blog/issues/6) 
+
+[树、二叉树、二叉查找树（Binary Search Tree）](https://github.com/HerokunTan/Blog/issues/7) 
+
