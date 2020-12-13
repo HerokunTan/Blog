@@ -23,3 +23,9 @@
 [树、二叉树、二叉查找树（Binary Search Tree）](https://github.com/HerokunTan/Blog/issues/7) 
 
 [爬楼梯](https://github.com/HerokunTan/Blog/issues/8) 
+
+# 十大排序
+
+[选择排序](https://github.com/HerokunTan/Blog/issues/9) 
+
+[冒泡排序](https://github.com/HerokunTan/Blog/issues/10) 
