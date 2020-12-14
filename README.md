@@ -10,6 +10,8 @@
 
 [image转换api](https://github.com/HerokunTan/Blog/issues/5) 
 
+[浏览器缓存机制](https://github.com/HerokunTan/Blog/issues/11) 
+
 # 算法
  
 1. 审题要清楚
