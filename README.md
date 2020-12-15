@@ -31,3 +31,5 @@
 [选择排序](https://github.com/HerokunTan/Blog/issues/9) 
 
 [冒泡排序](https://github.com/HerokunTan/Blog/issues/10) 
+
+[插入排序](https://github.com/HerokunTan/Blog/issues/12) 
