@@ -12,6 +12,8 @@
 
 [浏览器缓存机制](https://github.com/HerokunTan/Blog/issues/11) 
 
+[手撕Promise源码](https://github.com/HerokunTan/Blog/issues/13) 
+
 # 算法
  
 1. 审题要清楚
