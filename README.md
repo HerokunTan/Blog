@@ -35,3 +35,6 @@
 [冒泡排序](https://github.com/HerokunTan/Blog/issues/10) 
 
 [插入排序](https://github.com/HerokunTan/Blog/issues/12) 
+
+[希尔排序（更高效的插入排序）](https://github.com/HerokunTan/Blog/issues/14) 
+
