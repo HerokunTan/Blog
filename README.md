@@ -28,6 +28,9 @@
 
 [爬楼梯](https://github.com/HerokunTan/Blog/issues/8) 
 
+[最长公共子序列（Longest Common Subsequence LCS）](https://github.com/HerokunTan/Blog/issues/17) 
+
+
 # 十大排序
 
 [选择排序](https://github.com/HerokunTan/Blog/issues/9) 
